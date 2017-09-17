@@ -1,0 +1,5 @@
+﻿  Lab0405.cpp
+c:\users\dusan\documents\visual studio 2017\projects\lab-0405\lab-0405\hashtable.h(14): warning C4244: '+=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\dusan\documents\visual studio 2017\projects\lab-0405\lab-0405\hashtable.h(54): warning C4018: '<': signed/unsigned mismatch
+  Lab-0405.vcxproj -> C:\Users\dusan\Documents\Visual Studio 2017\Projects\Lab-0405\Debug\Lab-0405.exe
+  Lab-0405.vcxproj -> C:\Users\dusan\Documents\Visual Studio 2017\Projects\Lab-0405\Debug\Lab-0405.pdb (Partial PDB)

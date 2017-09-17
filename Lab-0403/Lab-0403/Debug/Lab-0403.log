@@ -1,0 +1,4 @@
+﻿  Lab0403.cpp
+c:\users\dusan\documents\visual studio 2017\projects\lab-0403\lab-0403\hashtable.h(13): warning C4244: '+=': conversion from 'double' to 'unsigned int', possible loss of data
+  Lab-0403.vcxproj -> c:\Users\dusan\documents\visual studio 2017\Projects\Lab-0403\Debug\Lab-0403.exe
+  Lab-0403.vcxproj -> c:\Users\dusan\documents\visual studio 2017\Projects\Lab-0403\Debug\Lab-0403.pdb (Partial PDB)
